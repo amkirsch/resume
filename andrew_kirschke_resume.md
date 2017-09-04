@@ -6,6 +6,7 @@ Software Craftsman turned DevOps Engineer
 andrew.kirschke@gmx.com
 
 ## Roles, Responsibilities, etc.
+---
 
 ### What I have to offer "out of the box"
 * Coding Enthusiast
@@ -47,6 +48,7 @@ andrew.kirschke@gmx.com
   * MySQL, Postgres, MariaDB, SQLite
 
 ## Other
+---
 ### Job History
 * 4 years @ IBM: October 2013 - Present. Have worn many hats.  Currently a Chef Compentency Lead, Linux Admin, Lead Developer for Ruby on Rails, Overall DevOps Engineer.  Regularly promoted.
 
