@@ -29,8 +29,7 @@ andrew.kirschke@gmx.com
 * Contributor to the Chef Supermarket (Phoenix Cookbook)
 * Contributor to open source project (ruby-git)
 
-$-$
-$-$
+<br/><br/>
 ### Tools, Languages, etc.
 * Chef Tools I use regularly
   * Test Kitchen including ChefSpec, Inspec
