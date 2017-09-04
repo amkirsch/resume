@@ -48,9 +48,9 @@ andrew.kirschke@gmx.com
 
 ## Other
 ### Job History
-* 4 years at IBM: October 2013 - Present. Have worn many hats.  Currently a Chef Compentency Lead, Linux Admin, Lead Developer for Ruby on Rails, Overall DevOps Engineer.  Regularly promoted.
+* 4 years at IBM: October 2013 - Present. Have worn many hats.  Currently a Chef Competency Lead, Linux Admin, Lead Developer for Ruby on Rails, Overall DevOps Engineer.  Regularly promoted.
 
-* 6 years at McDonalds: December 2007 - June 2013. Started as Crew - worked my way up to Shift Manager and Assistant Store Manager.  Learned a tremendous amount about leadership, people skills, running a business, and all around professional skills.  Highly awarded and promoted.
+* 6 years at McDonald's: December 2007 - June 2013. Started as Crew - worked my way up to Shift Manager and Assistant Store Manager.  Learned a tremendous amount about leadership, people skills, running a business, and all around professional skills.  Highly awarded and promoted.
 
 ### Education
 
