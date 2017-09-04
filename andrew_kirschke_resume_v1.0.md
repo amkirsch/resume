@@ -9,8 +9,8 @@ andrew.kirschke@gmx.com
 
 ### What I have to offer "out of the box"
 * Coding Enthusiast
-* Chef Competency Lead
 * DevOps Enthusiast -- Excited to see the cultural change and always looking to learn more tools, skills and techniques. 
+* Chef Competency Lead
 * Chef and DevOps Solutions Developer and Architect
 * Leading our Scripting Team's DevOps Pipeline (Jenkins, Git, Docker, Slack, Chef)
   * Provided Architecture Design and Development for Jenkins Pipeline, Infrastructure, and Git Branch modeling
@@ -18,7 +18,6 @@ andrew.kirschke@gmx.com
   * Documented and provided training material
 * Provisioning and Configuration of Development and Testing Infrastructure
 * Led team meetings, daily scrums, workshops, training, etc.
-* Ruby Enthusiast
 * Lead Developer of a Ruby on Rails web application 
   * Facilitates server compliance, auditing, and user event logging
   * LDAP based authentication / Divides users into roles through authorizations
@@ -49,9 +48,9 @@ andrew.kirschke@gmx.com
 
 ## Other
 ### Job History
-* 4 years @ IBM: October 2013 - Present. Have worn many hats.  Currently a Chef Compentency Lead, Linux Admin, Lead Developer for Ruby on Rails, Overall DevOps Engineer.  Regularly promoted.
+* 4 years at IBM: October 2013 - Present. Have worn many hats.  Currently a Chef Compentency Lead, Linux Admin, Lead Developer for Ruby on Rails, Overall DevOps Engineer.  Regularly promoted.
 
-* 6 years @ McDonalds: December 2007 - June 2013. Started as Crew - worked my way up to Shift Manager and Assistant Store Manager.  Learned a tremendous amount about leadership, people skills, running a business, and all around professional skills.  Highly awarded and promoted.
+* 6 years at McDonalds: December 2007 - June 2013. Started as Crew - worked my way up to Shift Manager and Assistant Store Manager.  Learned a tremendous amount about leadership, people skills, running a business, and all around professional skills.  Highly awarded and promoted.
 
 ### Education
 
