@@ -27,7 +27,7 @@ andrew.kirschke@gmx.com
 * Excited about learning new topics and diving deeper
 * Contributor to the Chef Supermarket (Phoenix Cookbook)
 * Contributor to open source project (ruby-git)
-* Life Science Industry Experience - worked with a major pharmacy chain to support their automated electronic prescription applications.
+* Life Science Industry Experience - working at IBM, assigned to a major pharmacy chain to support their automated electronic prescription applications
 
 <br/><br/>
 ### Tools, Languages, etc.
