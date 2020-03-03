@@ -1,7 +1,7 @@
 # Andrew M. Kirschke
 Software Craftsman turned DevOps Engineer
 
-+1 (517) 6484011
++1 (517) 648-4011
 
 noober01@protonmail.com
 
@@ -23,6 +23,7 @@ noober01@protonmail.com
 * Author to the Chef Supermarket (Phoenix Cookbook)
 * Life Science Industry Experience - working at IBM, assigned to a major pharmacy chain to support their automated electronic prescription applications
 <br/>
+
 ### Tools, Languages, etc.
 
 * Containers
