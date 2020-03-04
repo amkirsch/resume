@@ -1,59 +1,59 @@
 # Andrew M. Kirschke
 Software Craftsman turned DevOps Engineer
 
-+1 (517) 6484011
++1 (517) 648-4011
 
-andrew.kirschke@gmx.com
+noober01@protonmail.com
 
 ## Roles, Responsibilities, etc.
 
-### What I have to offer "out of the box"
-* Coding Enthusiast
-* Chef Competency Lead
-* DevOps Enthusiast -- Excited to see the cultural change and always looking to learn more tools, skills and techniques. 
-* Chef and DevOps Solutions Developer and Architect
-* Leading our Scripting Team's DevOps Pipeline (Jenkins, Git, Docker, Slack, Chef)
-  * Provided Architecture Design and Development for Jenkins Pipeline, Infrastructure, and Git Branch modeling
-  * Release Management - Delivery Pipeline supports automated builds, testing, and promotions (Git)
-  * Documented and provided training material
+### Experience I have to offer "out of the box"
+* DevOps Solutions Developer and Architect
+* DevOps Enthusiast - Especially excited to see cultural change
+* Building and Maintaining Complex CI/CD Pipelines
 * Provisioning and Configuration of Development and Testing Infrastructure
 * Led team meetings, daily scrums, workshops, training, etc.
-* Ruby Enthusiast
-* Lead Developer of a Ruby on Rails web application 
+* Working Knowledge of Kubernetes Cluster Development and Deployments
+* In Depth Knowledge of Application Containerization
+* Lead Developer of a Ruby on Rails web application
   * Facilitates server compliance, auditing, and user event logging
   * LDAP based authentication / Divides users into roles through authorizations
 * Experience interfacing with clients
 * Application Support and Maintenance
-* A Collaborative and Community driven individual
-* Excited about learning new topics and diving deeper
-* Contributor to the Chef Supermarket (Phoenix Cookbook)
-* Contributor to open source project (ruby-git)
+* Author to the Chef Supermarket (Phoenix Cookbook)
+* Life Science Industry Experience - working at IBM, assigned to a major pharmacy chain to support their automated electronic prescription applications
+<br/>
 
-<br/><br/>
 ### Tools, Languages, etc.
-* Chef Tools I use regularly
-  * Test Kitchen including ChefSpec, Inspec
-  * Chef Server and Workstation
+
+* Containers
+  * Kubernetes, Minikube, Microk8s
+  * Helm
+  * Docker & Docker Compose
+* Configuration Management
+  * Chef, Ansible, Salt
+  * Ansible Molecule Test Suite
+  * Chef Test Kitchen Test Suite
+* Infrastructure as Code
+  * Terraform, HEAT
 * Continuous Integration/Continuous Delivery Tools
-  * Jenkins, Git[Lab, Hub]
+  * Jenkins, CloudBees Core Jenkins, Artifactory
+* Source Control Management Tools
+  * GitLab, GitHub, Bitbucket
 * Languages currently invested in
-  * Ruby, Rails, Javascript, HTML/CSS, Bash
-* Automation Tools I have worked in
-  * Chef, Ansible, Docker, 
+  * Python, GoLang, BASH
 * Languages I have developed in, at some point
-  * Python, C/C++, SQL, Java
+  * C/C++, Java, Ruby, Rails, Javascript, HTML/CSS
 * Other Languages I have dabbled in
-  * Erlang, C#, Visual Basic .NET
+  * Erlang, Rust
 * Database Exposure
-  * MySQL, Postgres, MariaDB, SQLite
+  * MySQL, Postgres, MariaDB, SQLite, OracleDB
 
 ## Other
-### Job History
-* 4 years @ IBM: October 2013 - Present. Have worn many hats.  Currently a Chef Compentency Lead, Linux Admin, Lead Developer for Ruby on Rails, Overall DevOps Engineer.  Regularly promoted.
-
-* 6 years @ McDonalds: December 2007 - June 2013. Started as Crew - worked my way up to Shift Manager and Assistant Store Manager.  Learned a tremendous amount about leadership, people skills, running a business, and all around professional skills.  Highly awarded and promoted.
+### Relevant Job History
+* 1 year 9 months at Dewpoint: June 2018 - Present. Worked on various points of interest including Build and Release Management, Configuration Management, Infrastructure as Code, Jenkins Administration, Artifactory Administration and more.  Worked on projects which included the build out of a complex CI/CD Pipeline, private cloud build with OpenStack, and the transition of proprietary applications to Containers deployed on Kubernetes.
+* 4 years 9 months at IBM: October 2013 - June 2018. Have worn many hats including Configuration Management Lead, Linux Admin, Application Support Developer, Lead Developer for Ruby on Rails, Overall DevOps Engineer.  Regularly promoted.
 
 ### Education
 
-* Lansing Community College: 2010 - 2013. 46 Computer Science Credit Hours, no degree (GPA: 3.97).  Focused on career after joining IBM.
-
+* Lansing Community College: 2010 - 2013 No Degree Completed
